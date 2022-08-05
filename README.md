@@ -31,7 +31,7 @@ written in memory in one instruction on little endian computers, but the bit
 fiddling adds a non nigligible overhead. Benchmarks comparing prefix en postfix
 code show indeed that prefix code is more performant when coded in Go.
 
-There exist other encoding as the one use by SQLight, but we don't discuss them
+There exist other encoding as the one use by SQLite, but we don't discuss them
 here. 
 
 ## Usage
